@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/calendar-lite/static/css/main.77651aef.css",
+    "main.js": "/calendar-lite/static/js/main.4dffdda0.js",
+    "index.html": "/calendar-lite/index.html",
+    "main.77651aef.css.map": "/calendar-lite/static/css/main.77651aef.css.map",
+    "main.4dffdda0.js.map": "/calendar-lite/static/js/main.4dffdda0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77651aef.css",
+    "static/js/main.4dffdda0.js"
+  ]
+}
