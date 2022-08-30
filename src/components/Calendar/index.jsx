@@ -1,6 +1,6 @@
 import { Component } from "react";
 import classNames from "classnames";
-import * as calendar from "./calendar";
+import * as calendar from "./calendarHelpers";
 import "./index.css";
 
 export default class Calendar extends Component {
